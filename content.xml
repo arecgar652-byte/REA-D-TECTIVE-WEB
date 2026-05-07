@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507085441NMT6EH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507085441GK9G93</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Le Petit Détective du Web</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>¡Bienvenue, Détective!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alba Reche García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Voilà mes élèves notre petit coin de travail :)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778136785079</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-morcf8su-8xjqp147a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENUE DÉTECTIVE</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENUE DÉTECTIVE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENUE DÉTECTIVE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>BIENVENUE DÉTECTIVE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8su-8xjqp147a</odePageId>
+      <odeBlockId>20260501152729HBMYUO</odeBlockId>
+      <blockName>Bienvenue, Détective!&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8su-8xjqp147a</odePageId>
+          <odeBlockId>20260501152729HBMYUO</odeBlockId>
+          <odeIdeviceId>20260427170338138SIJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones de 1Hora</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd></dd></div></dl><p>Coucou Petit Détective!</p>
+<p>Tienes una misión y debes completarla de manera eficaz...</p>
+<p><img src="{{context_path}}/content/resources/a355bf1947704291b8611fb207d1c57b (1).jpg" alt="Voilà la francophonie" /><br /></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427170338138SIJ","textInfoDurationInput":"6 sesiones de 1Hora","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6 sesiones de 1Hora</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd></dd></div></dl><p>Coucou Petit Détective!</p>\n<p>Tienes una misión y debes completarla de manera eficaz...</p>\n<p><img src=\"{{context_path}}/content/resources/a355bf1947704291b8611fb207d1c57b (1).jpg\" alt=\"Voilà la francophonie\" /><br /></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8t0-02a0fug76</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Detective, ¡Esta es tu misión!</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Detective, ¡Esta es tu misión!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Detective, ¡Esta es tu misión!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Detective, ¡Esta es tu misión!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8t0-02a0fug76</odePageId>
+      <odeBlockId>20260501152729ZFNHPM</odeBlockId>
+      <blockName>Detective: ¡Esta es tu misión!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8t0-02a0fug76</odePageId>
+          <odeBlockId>20260501152729ZFNHPM</odeBlockId>
+          <odeIdeviceId>202604271652042329FJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6 sesiones de 1Hora</dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl><p>Eso sí, debes aceptarla previamente. Deberás investigar uno de los secretos más escondidos de la francofonía en África. Para ello, se te asignará país francófono que se te asignará. Con ello, tu misión debe completarse con:&nbsp;</p>
+<p>- La identificación de la información básica.&nbsp;</p>
+<p>- Debes ser capaz de identificar fuentes de información fiables y decir NO a las noticias falsas (Fake News).</p>
+<p>- Crear tu propio pasaporte digital.&nbsp;</p>
+<p>Y... ¿Cuánto&nbsp; tiempo como detective tienes para desarrollar tu misión?&nbsp;</p>
+<p>No te preocupes, tendrás 6 días de clase en las que te podré guiar si lo necesitas.&nbsp;</p>
+<p>Courage!</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604271652042329FJ","textInfoDurationInput":"6 sesiones de 1Hora","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Eso sí, debes aceptarla previamente. Deberás investigar uno de los secretos más escondidos de la francofonía en África. Para ello, se te asignará país francófono que se te asignará. Con ello, tu misión debe completarse con: </p>\n<p>- La identificación de la información básica. </p>\n<p>- Debes ser capaz de identificar fuentes de información fiables y decir NO a las noticias falsas (Fake News).</p>\n<p>- Crear tu propio pasaporte digital. </p>\n<p>Y... ¿Cuánto  tiempo como detective tienes para desarrollar tu misión? </p>\n<p>No te preocupes, tendrás 6 días de clase en las que te podré guiar si lo necesitas. </p>\n<p>Courage!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8t1-2ygexzkxd</odePageId>
+  <odeParentPageId>page-morcf8t0-02a0fug76</odeParentPageId>
+  <pageName>¡Cuidado: protegernos es importante!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Cuidado: protegernos es importante!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Cuidado: protegernos es importante!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¡Cuidado: protegernos es importante!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8t1-2ygexzkxd</odePageId>
+      <odeBlockId>20260501152729ALELOT</odeBlockId>
+      <blockName>¡Cuidado Detective!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8t1-2ygexzkxd</odePageId>
+          <odeBlockId>20260501152729ALELOT</odeBlockId>
+          <odeIdeviceId>20260427172652003HCM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un buen detective nunca deja pistas que le pongan en peligro Aquí aprenderás a activar<strong> tu escudo invisible: cómo cuidar tus contraseñas, por que no dar tus datos a desconocidos y cómo navegar por internet sin dejar huellas. </strong>¡Tu seguridad es lo primero!</p>
+<p>¡No lo olvides, un buen detective protege sus huellas y su seguridad!</p>
+<p><img src="{{context_path}}/content/resources/2.3 Protegernos es importante_compressed.pdf" alt="" /><img src="{{context_path}}/content/resources/2.3 Protegernos es importante_compressed.pdf" title="Protegernos es importante" alt="Protegernos es importante" /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427172652003HCM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un buen detective nunca deja pistas que le pongan en peligro Aquí aprenderás a activar<strong> tu escudo invisible: cómo cuidar tus contraseñas, por que no dar tus datos a desconocidos y cómo navegar por internet sin dejar huellas. </strong>¡Tu seguridad es lo primero!</p>\n<p>¡No lo olvides, un buen detective protege sus huellas y su seguridad!</p>\n<p><img src=\"{{context_path}}/content/resources/2.3 Protegernos es importante_compressed.pdf\" alt=\"\" /><img src=\"{{context_path}}/content/resources/2.3 Protegernos es importante_compressed.pdf\" title=\"Protegernos es importante\" alt=\"Protegernos es importante\" /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8t3-g9a6ecgru</odePageId>
+  <odeParentPageId>page-morcf8t1-2ygexzkxd</odeParentPageId>
+  <pageName>La mission</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La mission</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La mission</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8t3-g9a6ecgru</odePageId>
+      <odeBlockId>20260501152729LOBNBC</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8t3-g9a6ecgru</odePageId>
+          <odeBlockId>20260501152729LOBNBC</odeBlockId>
+          <odeIdeviceId>20260501161212567AH0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>¡Atención agentes! Toda investigación necesita un lugar seguro donde guardar las pruebas. Para vuestro caso de la Francofonía, vamos a utilizar una herramienta llamada <strong>Padlet. </strong></p>
+<p>¿Por qué hemos elegido Padlet?</p>
+<p>1. <strong>Será vuestro archivador multiformato</strong>: Imagina que Padlet es un tablón mágico donde podéis pinchar de todo: fotos de paisajes africanos, enlaces a mapas secretos, vuestras propias notas de voz practicando francés y vídeos de música. ¡TODO CABE EN VUESTRO DOSSIER!</p>
+<p>2. <strong>Trabajo en equipo y además, conexión segura:</strong> No hace falta que los 30 estéis conectados a la vez tumbando el WI-FI del insti. Trabajaremos en grupos de 3 con una sola tablet o portátil. Así, la red irá súper rápida y vuestra investigación no se detendrá. </p>
+<p>3. Súper <strong>fácil de usar:</strong> Solo tenéis que arrastrar y soltar vuestros hallazgos en las columnas de <strong>Cultura, Lengua o Geografía. </strong></p>
+<p>4. <strong>Conexión segura con el CUARTEL GENERAL</strong> (VUESTRA PROFE): Yo podré ver vuestros avances en tiempo real desde mi mesa para ayudaros si os atascáis con alguna pista. </p>
+<p>5. ¡Pruebas a prueba de fallos! <strong>¿Y si se va el internet? No pasará nada</strong>. Padlet nos permite guardar todo vuestro trabajo en un archivo PDF. Vuestras pruebas siempre estarán a salvo conmigo, pase lo que pase con el WI-FI. </p>
+<p>¿Cuál es vuestra misión en Padlet? Será rellenar las columnas del muro hasta que vuestro dossier esté completo. Recordad: un buen detective no solo encuentra información, ¡la organiza para que todo el mundo la entienda!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260501161212567AH0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>¡Atención agentes! Toda investigación necesita un lugar seguro donde guardar las pruebas. Para vuestro caso de la Francofonía, vamos a utilizar una herramienta llamada <strong>Padlet. </strong></p>\n<p>¿Por qué hemos elegido Padlet?</p>\n<p>1. <strong>Será vuestro archivador multiformato</strong>: Imagina que Padlet es un tablón mágico donde podéis pinchar de todo: fotos de paisajes africanos, enlaces a mapas secretos, vuestras propias notas de voz practicando francés y vídeos de música. ¡TODO CABE EN VUESTRO DOSSIER!</p>\n<p>2. <strong>Trabajo en equipo y además, conexión segura:</strong> No hace falta que los 30 estéis conectados a la vez tumbando el WI-FI del insti. Trabajaremos en grupos de 3 con una sola tablet o portátil. Así, la red irá súper rápida y vuestra investigación no se detendrá. </p>\n<p>3. Súper <strong>fácil de usar:</strong> Solo tenéis que arrastrar y soltar vuestros hallazgos en las columnas de <strong>Cultura, Lengua o Geografía. </strong></p>\n<p>4. <strong>Conexión segura con el CUARTEL GENERAL</strong> (VUESTRA PROFE): Yo podré ver vuestros avances en tiempo real desde mi mesa para ayudaros si os atascáis con alguna pista. </p>\n<p>5. ¡Pruebas a prueba de fallos! <strong>¿Y si se va el internet? No pasará nada</strong>. Padlet nos permite guardar todo vuestro trabajo en un archivo PDF. Vuestras pruebas siempre estarán a salvo conmigo, pase lo que pase con el WI-FI. </p>\n<p>¿Cuál es vuestra misión en Padlet? Será rellenar las columnas del muro hasta que vuestro dossier esté completo. Recordad: un buen detective no solo encuentra información, ¡la organiza para que todo el mundo la entienda!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8t6-bfxqq5m8v</odePageId>
+  <odeParentPageId>page-morcf8t3-g9a6ecgru</odeParentPageId>
+  <pageName>Rincones web del detective</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rincones web del detective</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rincones web del detective</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Rincones web del detective</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8t6-bfxqq5m8v</odePageId>
+      <odeBlockId>20260501152729BNFJWF</odeBlockId>
+      <blockName>La mochila de los Gadgets.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8t6-bfxqq5m8v</odePageId>
+          <odeBlockId>20260501152729BNFJWF</odeBlockId>
+          <odeIdeviceId>20260501162805343X73</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Ningún detective trabaja con las manos vacías! </p>
+<p>Aquí tienes tu Padlet mágico. Dentro hay diccionarios secretos, buscadores que no te espían y mapas de colores. Todo lo que necesitas para encontrar las pruebas de tu investigación está guardado en esta mochila digital. Además, se ha agregado un Symbaloo.</p>
+<p>¡Échale un vistazo detective!</p>
+<p><a href="https://padlet.com/arecgar652/le-petit-detective-du-web-xnyxmbvi7xi3u6tm" title="">https://padlet.com/arecgar652/le-petit-detective-du-web-xnyxmbvi7xi3u6tm</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260501162805343X73","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ningún detective trabaja con las manos vacías! </p>\n<p>Aquí tienes tu Padlet mágico. Dentro hay diccionarios secretos, buscadores que no te espían y mapas de colores. Todo lo que necesitas para encontrar las pruebas de tu investigación está guardado en esta mochila digital. Además, se ha agregado un Symbaloo.</p>\n<p>¡Échale un vistazo detective!</p>\n<p><a href=\"https://padlet.com/arecgar652/le-petit-detective-du-web-xnyxmbvi7xi3u6tm\" title=\"\">https://padlet.com/arecgar652/le-petit-detective-du-web-xnyxmbvi7xi3u6tm</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8t8-x3g2s6gu8</odePageId>
+  <odeParentPageId>page-morcf8t6-bfxqq5m8v</odeParentPageId>
+  <pageName>¿Qué debes hacer para completar la misión?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué debes hacer para completar la misión?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué debes hacer para completar la misión?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8t8-x3g2s6gu8</odePageId>
+      <odeBlockId>20260501152729SGBDOB</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8t8-x3g2s6gu8</odePageId>
+          <odeBlockId>20260501152729SGBDOB</odeBlockId>
+          <odeIdeviceId>202605011632541876LA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿No sabes qué toca hacer hoy?</p>
+<p>¡Mira el mapa!</p>
+<p>Aquí tienes un dibujo con los pasos de las 6 sesiones de clase. Sabrás cuándo te toca investigar, cuándo grabar tu voz y cuándo presentaremos el caso.</p>
+<p>¡Sigue la línea y no te perderás!</p>
+<p> <img src="{{context_path}}/content/resources/7.1 Ligne du temps_compressed.pdf" title="Línea del tiempo" alt="El mapa de la misión" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605011632541876LA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿No sabes qué toca hacer hoy?</p>\n<p>¡Mira el mapa!</p>\n<p>Aquí tienes un dibujo con los pasos de las 6 sesiones de clase. Sabrás cuándo te toca investigar, cuándo grabar tu voz y cuándo presentaremos el caso.</p>\n<p>¡Sigue la línea y no te perderás!</p>\n<p> <img src=\"{{context_path}}/content/resources/7.1 Ligne du temps_compressed.pdf\" title=\"Línea del tiempo\" alt=\"El mapa de la misión\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8ta-ku5bx17dg</odePageId>
+  <odeParentPageId>page-morcf8t8-x3g2s6gu8</odeParentPageId>
+  <pageName>¿Cómo conseguir tu medalla?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo conseguir tu medalla?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo conseguir tu medalla?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo conseguir tu medalla?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8ta-ku5bx17dg</odePageId>
+      <odeBlockId>20260501152729WLKVQM</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8ta-ku5bx17dg</odePageId>
+          <odeBlockId>20260501152729WLKVQM</odeBlockId>
+          <odeIdeviceId>20260501165301991L72</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para ser un Máster Detective, tienes que cumplir unas reglas. Aquí te enseño la Diana de Puntuación y las listas para que tú mismo veas si lo estás haciendo genial. Si sigues estos consejos, ¡Tu nota será de agente de élite!</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Diana de autoevaluación (1)_compressed.pdf" alt="" /><img src="{{context_path}}/content/resources/Diana de autoevaluación (1)_compressed.pdf" title="Diana de autoevaluación" alt="Diana de autoevaluación" /></p>
+<p><img src="{{context_path}}/content/resources/Lista de cotejo de participación e interculturalidad (1)_compressed.pdf" title="Lista de cotejo" alt="Lista de cotejo " /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260501165301991L72","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para ser un Máster Detective, tienes que cumplir unas reglas. Aquí te enseño la Diana de Puntuación y las listas para que tú mismo veas si lo estás haciendo genial. Si sigues estos consejos, ¡Tu nota será de agente de élite!</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Diana de autoevaluación (1)_compressed.pdf\" alt=\"\" /><img src=\"{{context_path}}/content/resources/Diana de autoevaluación (1)_compressed.pdf\" title=\"Diana de autoevaluación\" alt=\"Diana de autoevaluación\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Lista de cotejo de participación e interculturalidad (1)_compressed.pdf\" title=\"Lista de cotejo\" alt=\"Lista de cotejo \" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8tc-8jz07nig5</odePageId>
+  <odeParentPageId>page-morcf8ta-ku5bx17dg</odeParentPageId>
+  <pageName>Manual para otros capitanes</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Manual para otros capitanes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Manual para otros capitanes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8tc-8jz07nig5</odePageId>
+      <odeBlockId>20260501152729VKAYYL</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8tc-8jz07nig5</odePageId>
+          <odeBlockId>20260501152729VKAYYL</odeBlockId>
+          <odeIdeviceId>20260501165506139FAY</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos con un rincón algo más serio. Se trata del manual de instrucciones por si otros profes quieren copiar nuestra  misión en sus clases. Explica qué cosas de francés estamos aprendiendo mientras jugamos a ser detectives. </p>
+<p><img src="{{context_path}}/content/resources/blobid3.png" width="1169" height="629" alt="" /><br /></p>
+<p>Para evitar cualquier problema técnico, se llevará a cabo lo siguiente: </p>
+<p>1. Tener los recursos clave (fábulas, vídeos) descargados en el equipo del docente. <br />2. Descargar los productos del alumnado en PDF conforme vayan terminándose y así asegurarse la visualización offline. <br />3. Disponer siempre de un plan alternativo como la disponibilidad de fichas impresas o libros que les permitan alcanzar los objetivos lingüísticos requeridos. <br /></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAApXVj6AAA41_IBN_RA==" title="">https://www.symbaloo.com/shared/AAAAApXVj6AAA41_IBN_RA==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260501165506139FAY","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos con un rincón algo más serio. Se trata del manual de instrucciones por si otros profes quieren copiar nuestra  misión en sus clases. Explica qué cosas de francés estamos aprendiendo mientras jugamos a ser detectives. </p>\n<p><img src=\"{{context_path}}/content/resources/blobid3.png\" width=\"1169\" height=\"629\" alt=\"\" /><br /></p>\n<p>Para evitar cualquier problema técnico, se llevará a cabo lo siguiente: </p>\n<p>1. Tener los recursos clave (fábulas, vídeos) descargados en el equipo del docente. <br />2. Descargar los productos del alumnado en PDF conforme vayan terminándose y así asegurarse la visualización offline. <br />3. Disponer siempre de un plan alternativo como la disponibilidad de fichas impresas o libros que les permitan alcanzar los objetivos lingüísticos requeridos. <br /></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAApXVj6AAA41_IBN_RA==\" title=\"\">https://www.symbaloo.com/shared/AAAAApXVj6AAA41_IBN_RA==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morcf8te-40a9t532s</odePageId>
+  <odeParentPageId>page-morcf8tc-8jz07nig5</odeParentPageId>
+  <pageName>Fin de la Misión y Aplausos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fin de la Misión y Aplausos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fin de la Misión y Aplausos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morcf8te-40a9t532s</odePageId>
+      <odeBlockId>20260501152729PDIEAR</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8te-40a9t532s</odePageId>
+          <odeBlockId>20260501152729PDIEAR</odeBlockId>
+          <odeIdeviceId>20260501170840819MY3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡MISIÓN CUMPLIDA! Aquí aparecen los títulos de crédito, como quién ha inventado este juego y de dónde hemos sacado las fotos y los dibujos. También hay un botón mágico para que otros puedan descargarse este proyecto y seguir investigando. </p>
+<p></p>
+<p><strong>DESCRIPCIÓN DEL PROYECTO: </strong>Este recurso ha sido diseñado como situación de aprendizaje par ala materia de francés 1º Lengua Extranjera en 1º de la ESO. A través del rol de detectives. el alumnado investiga la diversidad cultural de la Francofonía en África, trabajando la curación de contenidos, la seguridad digital y la expresión oral mediante herramientas digitales colaborativas. </p>
+<p><strong> ¡La educación se enriquece cuando compartimos!</strong></p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260501170840819MY3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡MISIÓN CUMPLIDA! Aquí aparecen los títulos de crédito, como quién ha inventado este juego y de dónde hemos sacado las fotos y los dibujos. También hay un botón mágico para que otros puedan descargarse este proyecto y seguir investigando. </p>\n<p></p>\n<p><strong>DESCRIPCIÓN DEL PROYECTO: </strong>Este recurso ha sido diseñado como situación de aprendizaje par ala materia de francés 1º Lengua Extranjera en 1º de la ESO. A través del rol de detectives. el alumnado investiga la diversidad cultural de la Francofonía en África, trabajando la curación de contenidos, la seguridad digital y la expresión oral mediante herramientas digitales colaborativas. </p>\n<p><strong> ¡La educación se enriquece cuando compartimos!</strong></p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morcf8te-40a9t532s</odePageId>
+      <odeBlockId>block-1778079997793-wqzw4r364</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morcf8te-40a9t532s</odePageId>
+          <odeBlockId>block-1778079997793-wqzw4r364</odeBlockId>
+          <odeIdeviceId>idevice-1778079997789-wh755en8i</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Le Petit Détective du Web</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Voilà mes élèves notre petit coin de travail :)</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Alba Reche García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
